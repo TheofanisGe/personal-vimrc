@@ -1,0 +1,7 @@
+require ("fanis")
+--require ("after.plugin.color")
+--require ("after.plugin.lualine")
+--require ("after.plugin.nvim-tree")
+--require ("after.plugin.init")
+--require ("after.plugin.treesitter")
+--require ("after.plugin.telescope")
